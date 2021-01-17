@@ -1,0 +1,11 @@
+{
+  "name": "taller1",
+  "version": "0.0.1",
+  "description": "Taller 1_1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jolivar",
+  "license": "ISC"
+}
